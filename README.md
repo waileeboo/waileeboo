@@ -1,6 +1,6 @@
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100" />
+  <img src="https://capsule-render.vercel.app/api?text=HELLO!👨‍💻&animation=fadeIn&type=waving&color=gradient&height=100" />
 </p>
 ## 👨🏻‍💻 About Me and My Interests
 
