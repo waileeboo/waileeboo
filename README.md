@@ -66,8 +66,9 @@ Concept Drift Detection
 #### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=waileeboo&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waileeboo&show_icons=true&theme=github_dark&v=2&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waileeboo&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
 
-![snake animation](https://github.com/waileeboo/waileeboo/blob/output/github-contribution-grid-snake.svg) 
+
+![[snake animation](https://github.com/waileeboo/waileeboo/blob/output/github-contribution-grid-snake.svg) 
