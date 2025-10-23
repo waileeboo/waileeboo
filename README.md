@@ -3,12 +3,7 @@
 </p> -->
 <!-- Typing animation -->
 <h1 align="center" style="margin: 10px 0;">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&pause=1000&duration=3000&color=00C9A7&center=true&vCenter=true&width=800&height=140&lines=👨+HELLO!+👋"
-      alt="Typing SVG"
-    />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&pause=1000&color=33F763&center=true&vCenter=true&width=800&height=140&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBHELLO+%26+WELCOME!%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
 <!-- Contact badges -->
