@@ -1,13 +1,17 @@
-## 👨🏻‍💻 About Me & My Interests
+# HI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+
+## 👨🏻‍💻 About Me and My Interests
 
 ```yaml
 name: Wai Lee Boo
 located_in: Birmingham, United Kingdom
 education: MSci Computer Science at University of Birmingham
-about: Passionate about machine learning and cybersecurity research. I strive to build intelligent, secure systems through a deep understanding of underlying technologies.
+about: [
+       "Passionate about machine learning and cybersecurity research." ,
+       "I strive to build intelligent, secure systems through a deep understanding of underlying technologies."
+]
 
-field_of_interests:
-[
+field_of_interests: [
     "Machine Learning",
     "Cyber Security",
     "Networking",
@@ -27,8 +31,9 @@ Concept Drift Detection
 
 #### Framework
 
-### Tools
+#### Tools
 
+---
 
 #### GitHub Stats
 
