@@ -71,4 +71,4 @@ Concept Drift Detection
 </p>
 
 
-![snake animation](https://github.com/waileeboo/waileeboo/blob/output/github-contribution-grid-snake.svg) 
+<!-- ![snake animation](https://github.com/waileeboo/waileeboo/blob/output/github-contribution-grid-snake.svg) -->
